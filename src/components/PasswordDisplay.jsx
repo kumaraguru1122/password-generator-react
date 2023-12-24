@@ -16,7 +16,8 @@ function PasswordDisplay({ password }) {
           type="text"
           name=""
           id=""
-          className="bg-transparent px-2"
+          className="bg-transparent placeholder px-2  text-lg"
+          
           placeholder={password}
         />
         <button
