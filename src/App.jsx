@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <main className="h-screen grid place-content-center font-mono text-gray-100 bg-slate-950">
+      <main className="h-screen grid place-content-center font-mono text-gray-100 bg-slate-800 p-2">
         <div>
           <h1 className="text-3xl text-center text-gray-50 mb-4 font-bold">
             Password Generator
